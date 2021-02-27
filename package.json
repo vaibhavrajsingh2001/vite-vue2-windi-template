@@ -1,0 +1,25 @@
+{
+  "name": "vite-vue2-options-template",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "2.6.12",
+    "vue-router": "3.5.1"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.0.1",
+    "vite-plugin-components": "0.7.3",
+    "vite-plugin-vue2": "1.2.1",
+    "vite-plugin-windicss": "0.5.4"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
